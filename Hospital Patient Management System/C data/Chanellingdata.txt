@@ -1,0 +1,26 @@
+Chanelling number		Patient name		Patient age		Patient phone number		Patient address		Payment status		Amount paid
+1		rgfdfsghdf		21		-650556432		sdfdsfgg		paid		2000Chanelling number:1 
+
+ Patient name:pasindu 
+
+ Patient age:21 
+
+ Patient phone number:1233446 
+
+ Patient address:ffsgsbb 
+
+ Payment status:paid 
+
+ Paid amount:2000Total payment:6500.000000Total payment:11900.000000Chanelling number:1 
+
+ Patient name:ergerg 
+
+ Patient age:21 
+
+ Patient phone number:2343245 
+
+ Patient address:fdgndgn 
+
+ Payment status:paid 
+
+ Paid amount:2000

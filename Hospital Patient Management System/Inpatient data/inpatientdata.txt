@@ -1,0 +1,10 @@
+Patient number:1 
+ Patient name:dsfgdsfdergsefghh 
+ Patient ID number:123324r 
+ Patient age:1751606885 
+ Patient phone number:234345 
+ Patient address:dfgdf 
+ Cabin number:2 
+ Guardians name:ergsefghh 
+ Guardians ID number:323324r 
+ Guardians phone number:4323425
